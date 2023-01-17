@@ -1,0 +1,16 @@
+{
+  "name": "mdl",
+  "version": "1.0.0",
+  "description": "Download the contents of a URL as readable markdown",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Curtis Lusmore",
+  "license": "MIT",
+  "dependencies": {
+    "@mozilla/readability": "^0.4.2",
+    "jsdom": "^21.0.0",
+    "node-html-markdown": "^1.3.0"
+  }
+}
